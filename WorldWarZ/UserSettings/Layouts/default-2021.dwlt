@@ -19,7 +19,11 @@ MonoBehaviour:
     width: 1920
     height: 1037
   m_ShowMode: 4
+<<<<<<< Updated upstream
   m_Title: Game
+=======
+  m_Title: Hierarchy
+>>>>>>> Stashed changes
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -100,7 +104,11 @@ MonoBehaviour:
   m_MinSize: {x: 501, y: 442}
   m_MaxSize: {x: 28289, y: 8096}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 21
+=======
+  controlID: 113
+>>>>>>> Stashed changes
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,7 +154,11 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
+<<<<<<< Updated upstream
   controlID: 67
+=======
+  controlID: 100
+>>>>>>> Stashed changes
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -339,7 +351,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< Updated upstream
       m_ExpandedIDs: 54efffff6ef6ffff32f7ffffd2f7ffff9cf8ffff08faffff02fbffff6a620000
+=======
+      m_ExpandedIDs: bcf3ffffeaf7fffffef8ffffdcf9ffff36fbffff
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -355,7 +371,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 7}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -445,22 +461,36 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< Updated upstream
     - Assets/X-Factory - Brain Meal/Prefabs
+=======
+    - Assets/Materials
+>>>>>>> Stashed changes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
+<<<<<<< Updated upstream
   - Assets/X-Factory - Brain Meal/Prefabs
+=======
+  - Assets/Materials
+>>>>>>> Stashed changes
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Test\Git\AI_exam\WorldWarZ
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: b4670000
     m_LastClickedID: 26548
     m_ExpandedIDs: 00000000905a0000b067000000ca9a3b
+=======
+    m_SelectedIDs: 165a0000
+    m_LastClickedID: 23062
+    m_ExpandedIDs: 000000000e5a000000ca9a3b
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -861,9 +891,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< Updated upstream
     m_Target: {x: -2.7205048, y: 3.9169683, z: -47.008297}
     speed: 2
     m_Value: {x: -2.7205048, y: 3.9169683, z: -47.008297}
+=======
+    m_Target: {x: 0, y: 1, z: 0}
+    speed: 2
+    m_Value: {x: 0, y: 1, z: -0.000011255741}
+>>>>>>> Stashed changes
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -910,13 +946,19 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< Updated upstream
     m_Target: {x: -0.18821514, y: -0.61451215, z: 0.15409563, w: -0.7504927}
     speed: 2
     m_Value: {x: -0.1879805, y: -0.61562645, z: 0.1543751, w: -0.749557}
-  m_Size:
-    m_Target: 0.8660254
+=======
+    m_Target: {x: -0.20687136, y: 0.6211856, z: -0.17473246, w: -0.7354077}
     speed: 2
-    m_Value: 0.8660254
+    m_Value: {x: -0.20739222, y: 0.61896944, z: -0.17410904, w: -0.7372594}
+>>>>>>> Stashed changes
+  m_Size:
+    m_Target: 1.2247449
+    speed: 2
+    m_Value: 1.2247766
   m_Ortho:
     m_Target: 0
     speed: 2
